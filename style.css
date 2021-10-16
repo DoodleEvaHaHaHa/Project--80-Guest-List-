@@ -1,0 +1,27 @@
+h1{
+    margin-bottom: 30px;
+    color:ghostwhite;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+input{
+    margin-right: 10px;
+    margin-bottom: 20px;
+    width: 200px;
+    background-color:darkgoldenrod;
+    border: solid;
+    font-weight: bold;
+}
+button{
+    margin-bottom: 20px;
+    background-color:hotpink;
+    font-weight: bold;
+}
+hr{
+    margin-bottom: 15px;
+}
+body{
+	background: #FF5F6D;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #FFC371, #FF5F6D);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #FFC371, #FF5F6D); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
